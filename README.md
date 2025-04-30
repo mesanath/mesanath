@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm mesanath 👋
+# Hi there, I'm Sai Sanath 👋
 
 I am currently working as a **Technical Lead** at **Head Digital Works Private Ltd**, where I lead a talented team in developing innovative solutions. My expertise lies in **coding**, **system design**, and **architecture**, and I am passionate about leveraging technology to drive impactful projects.
 
 I thrive on the challenges of building new startups and projects, where I can apply my skills to create efficient and scalable systems. My goal is to continuously learn and grow in the tech industry while contributing to exciting and transformative initiatives.
-
-I am currently working as a **Technical Lead** at **Head Digital Works Private Ltd**, where I lead a talented team in developing innovative solutions. My expertise lies in **coding**, **system design**, and **architecture**.
 
 ## Current Work
 - Leading a team to develop cutting-edge software solutions.
@@ -38,11 +36,6 @@ I am currently working as a **Technical Lead** at **Head Digital Works Private L
 ## Help Needed
 - Seeking feedback on my current projects and any suggestions for improvement.
 - Looking for mentorship opportunities in advanced cloud technologies.
-
-## Contact Info
-- Email: [sanath0726@gmail.com](mailto:sanath0726@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sai-sanath)
-
 
 ## Key Highlights
 - **Technical Leadership**: Leading a team of developers to deliver high-quality software solutions.
@@ -111,5 +104,7 @@ I am currently working as a **Technical Lead** at **Head Digital Works Private L
 - Developed a user-friendly interface for creating and managing Zaps, enabling users to automate tasks without technical expertise.
 - Ensured that Zaps operate on new items created after activation, simplifying the integration process.
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sai-sanath)
+
+  ## Contact Info
+- Email: [sanath0726@gmail.com](mailto:sanath0726@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sai-sanath)
