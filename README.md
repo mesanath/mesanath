@@ -44,7 +44,7 @@ I thrive on the challenges of building new startups and projects, where I can ap
 - **Startup Enthusiast**: Committed to building and nurturing new projects that solve real-world problems.
 
 ## Skills
-- **Programming Languages**: Python, JavaScript, Java, etc.
+- **Programming Languages**: JavaScript,Python etc.
 - **Frameworks**: React, Node.js, Django, Laravel, etc.
 - **Tools**: Git, Docker, Kubernetes, etc.
 - **Cloud Services**: AWS, Azure, Google Cloud, etc.
