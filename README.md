@@ -55,10 +55,14 @@ I thrive on the challenges of building new startups and projects, where I can ap
 **Role**: Technical Lead  
 **Duration**: Mar 2019 - Present  
 **Description**: Developed a comprehensive cricket platform featuring live scores, predictions, player statistics, and team statuses.  
-**Technologies**: Node.js, React.js, AWS, 2Factor, Kraken, SES, SNS, Serverless, Lambda  
+**Technologies**: Node.js, React.js, AWS, 2Factor, IDFY, kaleyra, Kraken, Gupshup, Gumlet , Imgix ,S3 , SES, SNS, API Gateway , Serverless, Lambda  
 **Contributions**:
-- Developed most of the backend services.
-- Created a console panel for managing data and user interactions.
+- Spearheaded the development of core backend services, including those for cricket information, match details, user signups and profiles, KYC processes, news aggregation, and stories/reels features.
+- Created a console panel for effective data management and user interaction administration. This included integrating the open-source editor Froala for the news section, which reduced reliance and costs associated with third-party libraries.
+- Engineered SMS and WhatsApp OTP functionality for the cricket Fantasy feature, implementing robust rate limiters (general and IP-based) to prevent brute-force attacks, alongside proper timers and phone number validation. This AWS Lambda-based system significantly boosted service availability and enabled seamless scaling.
+- Implemented KYC functionality for the cricket Fantasy feature by integrating a Third-Party API for Aadhar and PAN authentication. This solution ensured minimal latency in the KYC process, improved image data handling, and incorporated fraud detection through the creation of a unique HASH key for each KYC submission.
+- Implemented comprehensive image optimization across the entire website, leading to significant improvements in website and app performance, and enhanced caching strategies.
+- Played a key role in system design, actively participated in sprint planning, managed team members, and drove technical initiatives within the team.
 
 ### Trade App (Cryptocurrency Trade & Investing)
 **Role**: Team Lead  
